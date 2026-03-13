@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Workforce Salary Prediction System
 
 This is a complete end-to-end Machine Learning project that predicts an employee's expected salary based on their workforce data, constructed with Python and Streamlit.
